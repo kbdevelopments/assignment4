@@ -1,0 +1,748 @@
+ 	Date 	Series 	Ground 	Result
+1 	05/01/1971 	1970-1971 Australia v. England 	Melbourne Cricket Ground 	Australia won by 5 wickets
+2 	24/08/1972 	1972 Prudential Trophy (v. Australia) 	Old Trafford 	England won by 6 wickets
+3 	26/08/1972 	1972 Prudential Trophy (v. Australia) 	Lord's 	Australia won by 5 wickets
+4 	28/08/1972 	1972 Prudential Trophy (v. Australia) 	Edgbaston 	England won by 2 wickets
+5 	18/07/1973 	1973 Prudential Trophy (v. New Zealand) 	St Helen's 	England won by 7 wickets
+6 	20/07/1973 	1973 Prudential Trophy (v. New Zealand) 	Old Trafford 	No Result
+7 	05/09/1973 	1973 Prudential Trophy (v. West Indies) 	Headingley 	England won by 1 wicket
+8 	07/09/1973 	1973 Prudential Trophy (v. West Indies) 	Kennington Oval 	West Indies won by 8 wickets
+9 	13/07/1974 	1974 Prudential Trophy (v. India) 	Headingley 	England won by 4 wickets
+10 	15/07/1974 	1974 Prudential Trophy (v. India) 	Kennington Oval 	England won by 6 wickets
+11 	31/08/1974 	1974 Prudential Trophy (v. Pakistan) 	Trent Bridge 	Pakistan won by 7 wickets
+12 	03/09/1974 	1974 Prudential Trophy (v. Pakistan) 	Edgbaston 	Pakistan won by 8 wickets
+13 	01/01/1975 	1974-1975 Australia v. England 	Melbourne Cricket Ground 	England won by 3 wickets
+14 	08/03/1975 	1974-1975 New Zealand v. England 	Carisbrook 	No Result
+15 	09/03/1975 	1974-1975 New Zealand v. England 	Basin Reserve 	No Result
+16 	07/06/1975 	1975 Prudential World Cup (v. India) 	Lord's 	England won by 202 runs
+17 	11/06/1975 	1975 Prudential World Cup (v. New Zealand) 	Trent Bridge 	England won by 80 runs
+18 	14/06/1975 	1975 Prudential World Cup (v. East Africa) 	Edgbaston 	England won by 196 runs
+19 	18/06/1975 	1975 Prudential World Cup (v. Australia) 	Headingley 	Australia won by 4 wickets
+20 	26/08/1976 	1976 Prudential Trophy (v. West Indies) 	North Marine Road Ground 	West Indies won by 6 wickets
+21 	28/08/1976 	1976 Prudential Trophy (v. West Indies) 	Lord's 	West Indies won by 36 runs
+22 	30/08/1976 	1976 Prudential Trophy (v. West Indies) 	Edgbaston 	West Indies won by 50 runs
+23 	02/06/1977 	1977 Prudential Trophy (v. Australia) 	Old Trafford 	England won by 2 wickets
+24 	04/06/1977 	1977 Prudential Trophy (v. Australia) 	Edgbaston 	England won by 101 runs
+25 	06/06/1977 	1977 Prudential Trophy (v. Australia) 	Kennington Oval 	Australia won by 2 wickets
+26 	23/12/1977 	1977-1978 Pakistan v. England 	Zafar Ali (Sahiwal) Stadium 	England won by 3 wickets
+27 	30/12/1977 	1977-1978 Pakistan v. England 	Jinnah Stadium (Sialkot) 	England won by 6 wickets
+28 	13/01/1978 	1977-1978 Pakistan v. England 	Gaddafi Stadium 	Pakistan won by 36 runs
+29 	24/05/1978 	1978 Prudential Trophy (v. Pakistan) 	Old Trafford 	England won by 132 runs
+30 	26/05/1978 	1978 Prudential Trophy (v. Pakistan) 	Kennington Oval 	England won by 94 runs
+31 	15/07/1978 	1978 Prudential Trophy (v. New Zealand) 	North Marine Road Ground 	England won by 19 runs
+32 	17/07/1978 	1978 Prudential Trophy (v. New Zealand) 	Old Trafford 	England won by 126 runs
+33 	13/01/1979 	1978-1979 Australia v. England 	Sydney Cricket Ground 	No Result
+34 	24/01/1979 	1978-1979 Australia v. England 	Melbourne Cricket Ground 	England won by 7 wickets
+35 	04/02/1979 	1978-1979 Australia v. England 	Melbourne Cricket Ground 	Australia won by 4 wickets
+36 	07/02/1979 	1978-1979 Australia v. England 	Melbourne Cricket Ground 	Australia won by 6 wickets
+37 	09/06/1979 	1979 Prudential World Cup (v. Australia) 	Lord's 	England won by 6 wickets
+38 	13/06/1979 	1979 Prudential World Cup (v. Canada) 	Old Trafford 	England won by 8 wickets
+39 	16/06/1979 	1979 Prudential World Cup (v. Pakistan) 	Headingley 	England won by 14 runs
+40 	20/06/1979 	1979 Prudential World Cup (v. New Zealand) 	Old Trafford 	England won by 9 runs
+41 	23/06/1979 	1979 Prudential World Cup (v. West Indies) 	Lord's 	West Indies won by 92 runs
+42 	28/11/1979 	1979-1980 Benson & Hedges World Series Cup (v. West Indies) 	Sydney Cricket Ground 	England won by 2 runs
+43 	08/12/1979 	1979-1980 Benson & Hedges World Series Cup (v. Australia) 	Melbourne Cricket Ground 	England won by 3 wickets
+44 	11/12/1979 	1979-1980 Benson & Hedges World Series Cup (v. Australia) 	Sydney Cricket Ground 	England won by 72 runs
+45 	23/12/1979 	1979-1980 Benson & Hedges World Series Cup (v. West Indies) 	Brisbane Cricket Ground 	West Indies won by 9 wickets
+46 	26/12/1979 	1979-1980 Benson & Hedges World Series Cup (v. Australia) 	Sydney Cricket Ground 	England won by 4 wickets
+47 	14/01/1980 	1979-1980 Benson & Hedges World Series Cup (v. Australia) 	Sydney Cricket Ground 	England won by 2 wickets
+48 	16/01/1980 	1979-1980 Benson & Hedges World Series Cup (v. West Indies) 	Adelaide Oval 	West Indies won by 107 runs
+49 	20/01/1980 	1979-1980 Benson & Hedges World Series Cup (v. West Indies) 	Melbourne Cricket Ground 	West Indies won by 2 runs
+50 	22/01/1980 	1979-1980 Benson & Hedges World Series Cup (v. West Indies) 	Sydney Cricket Ground 	West Indies won by 8 wickets
+51 	28/05/1980 	1980 Prudential Trophy (v. West Indies) 	Headingley 	West Indies won by 24 runs
+52 	30/05/1980 	1980 Prudential Trophy (v. West Indies) 	Lord's 	England won by 3 wickets
+53 	20/08/1980 	1980 Prudential Trophy (v. Australia) 	Kennington Oval 	England won by 23 runs
+54 	22/08/1980 	1980 Prudential Trophy (v. Australia) 	Edgbaston 	England won by 47 runs
+55 	04/02/1981 	1980-1981 West Indies v. England 	Arnos Vale Ground 	West Indies won by 2 runs
+56 	26/02/1981 	1980-1981 West Indies v. England 	Albion Sports Complex 	West Indies won by 6 wickets
+57 	04/06/1981 	1981 Prudential Trophy (v. Australia) 	Lord's 	England won by 6 wickets
+58 	06/06/1981 	1981 Prudential Trophy (v. Australia) 	Edgbaston 	Australia won by 2 runs
+59 	08/06/1981 	1981 Prudential Trophy (v. Australia) 	Headingley 	Australia won by 71 runs
+60 	25/11/1981 	1981-1982 India v. England 	Sardar Vallabhai Patel Stadium 	England won by 5 wickets
+61 	20/12/1981 	1981-1982 India v. England 	Gandhi Stadium 	India won by 6 wickets
+62 	27/01/1982 	1981-1982 India v. England 	Barabati Stadium 	India won by 5 wickets
+63 	13/02/1982 	1981-1982 Sri Lanka v. England 	Sinhalese Sports Club Ground 	England won by 5 runs
+64 	14/02/1982 	1981-1982 Sri Lanka v. England 	Sinhalese Sports Club Ground 	Sri Lanka won by 3 runs
+65 	02/06/1982 	1982 Prudential Trophy (v. India) 	Headingley 	England won by 9 wickets
+66 	04/06/1982 	1982 Prudential Trophy (v. India) 	Kennington Oval 	England won by 114 runs
+67 	17/07/1982 	1982 Prudential Trophy (v. Pakistan) 	Trent Bridge 	England won by 7 wickets
+68 	19/07/1982 	1982 Prudential Trophy (v. Pakistan) 	Old Trafford 	England won by 73 runs
+69 	11/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. Australia) 	Sydney Cricket Ground 	Australia won by 31 runs
+70 	13/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. New Zealand) 	Melbourne Cricket Ground 	New Zealand won by 2 runs
+71 	15/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. New Zealand) 	Brisbane Cricket Ground 	England won by 54 runs
+72 	16/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. Australia) 	Brisbane Cricket Ground 	Australia won by 7 wickets
+73 	20/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. New Zealand) 	Sydney Cricket Ground 	England won by 8 wickets
+74 	23/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. Australia) 	Melbourne Cricket Ground 	Australia won by 5 wickets
+75 	26/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. Australia) 	Sydney Cricket Ground 	England won by 98 runs
+76 	29/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. New Zealand) 	Adelaide Oval 	New Zealand won by 4 wickets
+77 	30/01/1983 	1982-1983 Benson & Hedges World Series Cup (v. Australia) 	Adelaide Oval 	England won by 14 runs
+78 	05/02/1983 	1982-1983 Benson & Hedges World Series Cup (v. New Zealand) 	WACA Ground 	New Zealand won by 7 wickets
+79 	19/02/1983 	1982-1983 New Zealand v. England 	Eden Park 	New Zealand won by 6 wickets
+80 	23/02/1983 	1982-1983 New Zealand v. England 	Basin Reserve 	New Zealand won by 103 runs
+81 	26/02/1983 	1982-1983 New Zealand v. England 	AMI Stadium 	New Zealand won by 84 runs
+82 	09/06/1983 	1983 Prudential World Cup (v. New Zealand) 	Kennington Oval 	England won by 106 runs
+83 	11/06/1983 	1983 Prudential World Cup (v. Sri Lanka) 	The Cooper Associates County Ground 	England won by 47 runs
+84 	13/06/1983 	1983 Prudential World Cup (v. Pakistan) 	Lord's 	England won by 8 wickets
+85 	15/06/1983 	1983 Prudential World Cup (v. New Zealand) 	Edgbaston 	New Zealand won by 2 wickets
+86 	18/06/1983 	1983 Prudential World Cup (v. Pakistan) 	Old Trafford 	England won by 7 wickets
+87 	20/06/1983 	1983 Prudential World Cup (v. Sri Lanka) 	Headingley 	England won by 9 wickets
+88 	22/06/1983 	1983 Prudential World Cup (v. India) 	Old Trafford 	India won by 6 wickets
+89 	18/02/1984 	1983-1984 New Zealand v. England 	AMI Stadium 	England won by 54 runs
+90 	22/02/1984 	1983-1984 New Zealand v. England 	Basin Reserve 	England won by 6 wickets
+91 	25/02/1984 	1983-1984 New Zealand v. England 	Eden Park 	New Zealand won by 7 wickets
+92 	09/03/1984 	1983-1984 Pakistan v. England 	Gaddafi Stadium 	Pakistan won by 6 wickets
+93 	26/03/1984 	1983-1984 Pakistan v. England 	National Stadium (Karachi) 	England won by 6 wickets
+94 	31/05/1984 	1984 Texaco Trophy (v. West Indies) 	Old Trafford 	West Indies won by 104 runs
+95 	02/06/1984 	1984 Texaco Trophy (v. West Indies) 	Trent Bridge 	England won by 3 wickets
+96 	04/06/1984 	1984 Texaco Trophy (v. West Indies) 	Lord's 	West Indies won by 8 wickets
+97 	05/12/1984 	1984-1985 India v. England 	Nehru Stadium (Pune) 	England won by 4 wickets
+98 	27/12/1984 	1984-1985 India v. England 	Barabati Stadium 	England won by 4 runs
+99 	20/01/1985 	1984-1985 India v. England 	M Chinnaswamy Stadium 	England won by 3 wickets
+100 	23/01/1985 	1984-1985 India v. England 	Vidarbha Cricket Association Ground 	India won by 3 wickets
+101 	27/01/1985 	1984-1985 India v. England 	Sector 16 Stadium 	England won by 7 runs
+102 	17/02/1985 	1984-1985 Benson & Hedges World Championship (v. Australia) 	Melbourne Cricket Ground 	Australia won by 7 wickets
+103 	26/02/1985 	1984-1985 Benson & Hedges World Championship (v. India) 	Sydney Cricket Ground 	India won by 86 runs
+104 	02/03/1985 	1984-1985 Benson & Hedges World Championship (v. Pakistan) 	Melbourne Cricket Ground 	Pakistan won by 67 runs
+105 	24/03/1985 	1984-1985 Rothmans Four-Nations Cup (v. Australia) 	Sharjah Cricket Stadium 	Australia won by 2 wickets
+106 	26/03/1985 	1984-1985 Rothmans Four-Nations Cup (v. Pakistan) 	Sharjah Cricket Stadium 	Pakistan won by 43 runs
+107 	30/05/1985 	1985 Texaco Trophy (v. Australia) 	Old Trafford 	Australia won by 3 wickets
+108 	01/06/1985 	1985 Texaco Trophy (v. Australia) 	Edgbaston 	Australia won by 4 wickets
+109 	03/06/1985 	1985 Texaco Trophy (v. Australia) 	Lord's 	England won by 8 wickets
+110 	18/02/1986 	1985-1986 West Indies v. England 	Sabina Park 	West Indies won by 6 wickets
+111 	04/03/1986 	1985-1986 West Indies v. England 	Queen's Park Oval 	England won by 5 wickets
+112 	19/03/1986 	1985-1986 West Indies v. England 	Kensington Oval 	West Indies won by 135 runs
+113 	31/03/1986 	1985-1986 West Indies v. England 	Queen's Park Oval 	West Indies won by 8 wickets
+114 	24/05/1986 	1986 Texaco Trophy (v. India) 	Kennington Oval 	India won by 9 wickets
+115 	26/05/1986 	1986 Texaco Trophy (v. India) 	Old Trafford 	England won by 5 wickets
+116 	16/07/1986 	1986 Texaco Trophy (v. New Zealand) 	Headingley 	New Zealand won by 47 runs
+117 	18/07/1986 	1986 Texaco Trophy (v. New Zealand) 	Old Trafford 	England won by 6 wickets
+118 	01/01/1987 	1986-1987 Benson & Hedges Challenge (v. Australia) 	WACA Ground 	England won by 37 runs
+119 	03/01/1987 	1986-1987 Benson & Hedges Challenge (v. West Indies) 	WACA Ground 	England won by 19 runs
+120 	05/01/1987 	1986-1987 Benson & Hedges Challenge (v. Pakistan) 	WACA Ground 	England won by 3 wickets
+121 	07/01/1987 	1986-1987 Benson & Hedges Challenge (v. Pakistan) 	WACA Ground 	England won by 5 wickets
+122 	17/01/1987 	1986-1987 Benson & Hedges World Series Cup (v. West Indies) 	Brisbane Cricket Ground 	England won by 6 wickets
+123 	18/01/1987 	1986-1987 Benson & Hedges World Series Cup (v. Australia) 	Brisbane Cricket Ground 	Australia won by 11 runs
+124 	22/01/1987 	1986-1987 Benson & Hedges World Series Cup (v. Australia) 	Sydney Cricket Ground 	England won by 3 wickets
+125 	24/01/1987 	1986-1987 Benson & Hedges World Series Cup (v. West Indies) 	Adelaide Oval 	England won by 89 runs
+126 	26/01/1987 	1986-1987 Benson & Hedges World Series Cup (v. Australia) 	Adelaide Oval 	Australia won by 33 runs
+127 	30/01/1987 	1986-1987 Benson & Hedges World Series Cup (v. West Indies) 	Melbourne Cricket Ground 	West Indies won by 6 wickets
+128 	01/02/1987 	1986-1987 Benson & Hedges World Series Cup (v. Australia) 	Melbourne Cricket Ground 	Australia won by 109 runs
+129 	03/02/1987 	1986-1987 Benson & Hedges World Series Cup (v. West Indies) 	Devonport Oval 	England won by 29 runs
+130 	08/02/1987 	1986-1987 Benson & Hedges World Series Cup (v. Australia) 	Melbourne Cricket Ground 	England won by 6 wickets
+131 	11/02/1987 	1986-1987 Benson & Hedges World Series Cup (v. Australia) 	Sydney Cricket Ground 	England won by 8 runs
+132 	02/04/1987 	1986-1987 Sharjah Cup (v. India) 	Sharjah Cricket Stadium 	India won by 3 wickets
+133 	07/04/1987 	1986-1987 Sharjah Cup (v. Pakistan) 	Sharjah Cricket Stadium 	England won by 5 wickets
+134 	09/04/1987 	1986-1987 Sharjah Cup (v. Australia) 	Sharjah Cricket Stadium 	England won by 11 runs
+135 	21/05/1987 	1987 Texaco Trophy (v. Pakistan) 	Kennington Oval 	England won by 7 wickets
+136 	23/05/1987 	1987 Texaco Trophy (v. Pakistan) 	Trent Bridge 	Pakistan won by 6 wickets
+137 	25/05/1987 	1987 Texaco Trophy (v. Pakistan) 	Edgbaston 	England won by 1 wicket
+138 	09/10/1987 	1987-1988 Reliance World Cup (v. West Indies) 	Jinnah Stadium (Gujwranwala) 	England won by 2 wickets
+139 	12/10/1987 	1987-1988 Reliance World Cup (v. Pakistan) 	Pindi Club Ground 	Pakistan won by 18 runs
+140 	17/10/1987 	1987-1988 Reliance World Cup (v. Sri Lanka) 	Arbab Niaz Stadium 	England won by 109 runs
+141 	20/10/1987 	1987-1988 Reliance World Cup (v. Pakistan) 	National Stadium (Karachi) 	Pakistan won by 7 wickets
+142 	26/10/1987 	1987-1988 Reliance World Cup (v. West Indies) 	Sawai Mansingh Stadium 	England won by 34 runs
+143 	30/10/1987 	1987-1988 Reliance World Cup (v. Sri Lanka) 	Nehru Stadium (Pune) 	England won by 8 wickets
+144 	05/11/1987 	1987-1988 Reliance World Cup (v. India) 	Wankhede Stadium 	England won by 35 runs
+145 	08/11/1987 	1987-1988 Reliance World Cup (v. Australia) 	Eden Gardens 	Australia won by 7 runs
+146 	18/11/1987 	1987-1988 Pakistan v. England 	Gaddafi Stadium 	England won by 2 wickets
+147 	20/11/1987 	1987-1988 Pakistan v. England 	National Stadium (Karachi) 	England won by 23 runs
+148 	22/11/1987 	1987-1988 Pakistan v. England 	Arbab Niaz Stadium 	England won by 98 runs
+149 	04/02/1988 	1987-1988 Australian Bicentennial Match (v. Australia) 	Melbourne Cricket Ground 	Australia won by 22 runs
+150 	09/03/1988 	1987-1988 New Zealand v. England 	Carisbrook 	England won by 5 wickets
+151 	12/03/1988 	1987-1988 New Zealand v. England 	AMI Stadium 	England won by 6 wickets
+152 	16/03/1988 	1987-1988 New Zealand v. England 	McLean Park 	New Zealand won by 7 wickets
+153 	19/03/1988 	1987-1988 New Zealand v. England 	Eden Park 	New Zealand won by 4 wickets
+154 	19/05/1988 	1988 Texaco Trophy (v. West Indies) 	Edgbaston 	England won by 6 wickets
+155 	21/05/1988 	1988 Texaco Trophy (v. West Indies) 	Headingley 	England won by 47 runs
+156 	23/05/1988 	1988 Texaco Trophy (v. West Indies) 	Lord's 	England won by 7 wickets
+157 	04/09/1988 	1988 Texaco Trophy (v. Sri Lanka) 	Kennington Oval 	England won by 5 wickets
+158 	25/05/1989 	1989 Texaco Trophy (v. Australia) 	Old Trafford 	England won by 95 runs
+159 	27/05/1989 	1989 Texaco Trophy (v. Australia) 	Trent Bridge 	Match Tied
+160 	29/05/1989 	1989 Texaco Trophy (v. Australia) 	Lord's 	Australia won by 6 wickets
+161 	15/10/1989 	1989-1990 MRF World Series (Nehru) Cup (v. Sri Lanka) 	Arun Jaitley Stadium 	England won by 5 wickets
+162 	19/10/1989 	1989-1990 MRF World Series (Nehru) Cup (v. Australia) 	Lal Bahadur Shastri Stadium 	England won by 7 wickets
+163 	22/10/1989 	1989-1990 MRF World Series (Nehru) Cup (v. Pakistan) 	Barabati Stadium 	England won by 4 wickets
+164 	25/10/1989 	1989-1990 MRF World Series (Nehru) Cup (v. India) 	Green Park 	India won by 6 wickets
+165 	27/10/1989 	1989-1990 MRF World Series (Nehru) Cup (v. West Indies) 	Captain Roop Singh Stadium 	West Indies won by 26 runs
+166 	30/10/1989 	1989-1990 MRF World Series (Nehru) Cup (v. Pakistan) 	Vidarbha Cricket Association Ground 	Pakistan won by 6 wickets
+167 	14/02/1990 	1989-1990 West Indies v. England 	Queen's Park Oval 	No Result
+168 	17/02/1990 	1989-1990 West Indies v. England 	Queen's Park Oval 	No Result
+169 	03/03/1990 	1989-1990 West Indies v. England 	Sabina Park 	West Indies won by 3 wickets
+170 	07/03/1990 	1989-1990 West Indies v. England 	Bourda 	West Indies won by 6 wickets
+171 	03/04/1990 	1989-1990 West Indies v. England 	Kensington Oval 	West Indies won by 4 wickets
+172 	15/03/1990 	1989-1990 Georgetown Test Replacement Match (v. West Indies) 	Bourda 	West Indies won by 7 wickets
+173 	23/05/1990 	1990 Texaco Trophy (v. New Zealand) 	Headingley 	New Zealand won by 4 wickets
+174 	25/05/1990 	1990 Texaco Trophy (v. New Zealand) 	Kennington Oval 	England won by 6 wickets
+175 	18/07/1990 	1990 Texaco Trophy (v. India) 	Headingley 	India won by 6 wickets
+176 	20/07/1990 	1990 Texaco Trophy (v. India) 	Trent Bridge 	India won by 5 wickets
+177 	01/12/1990 	1990-1991 Benson & Hedges World Series (v. New Zealand) 	Adelaide Oval 	New Zealand won by 7 runs
+178 	07/12/1990 	1990-1991 Benson & Hedges World Series (v. New Zealand) 	WACA Ground 	England won by 4 wickets
+179 	09/12/1990 	1990-1991 Benson & Hedges World Series (v. Australia) 	WACA Ground 	Australia won by 6 wickets
+180 	13/12/1990 	1990-1991 Benson & Hedges World Series (v. New Zealand) 	Sydney Cricket Ground 	England won by 33 runs
+181 	15/12/1990 	1990-1991 Benson & Hedges World Series (v. New Zealand) 	Brisbane Cricket Ground 	New Zealand won by 8 wickets
+182 	16/12/1990 	1990-1991 Benson & Hedges World Series (v. Australia) 	Brisbane Cricket Ground 	Australia won by 37 runs
+183 	01/01/1991 	1990-1991 Benson & Hedges World Series (v. Australia) 	Sydney Cricket Ground 	Australia won by 68 runs
+184 	10/01/1991 	1990-1991 Benson & Hedges World Series (v. Australia) 	Melbourne Cricket Ground 	Australia won by 3 runs
+185 	09/02/1991 	1990-1991 New Zealand v. England 	AMI Stadium 	England won by 14 runs
+186 	13/02/1991 	1990-1991 New Zealand v. England 	Basin Reserve 	New Zealand won by 9 runs
+187 	16/02/1991 	1990-1991 New Zealand v. England 	Eden Park 	New Zealand won by 7 runs
+188 	23/05/1991 	1991 Texaco Trophy (v. West Indies) 	Edgbaston 	England won by 1 wicket
+189 	25/05/1991 	1991 Texaco Trophy (v. West Indies) 	Old Trafford 	England won by 9 runs
+190 	27/05/1991 	1991 Texaco Trophy (v. West Indies) 	Lord's 	England won by 7 wickets
+191 	11/01/1992 	1991-1992 New Zealand v. England 	Eden Park 	England won by 7 wickets
+192 	12/02/1992 	1991-1992 New Zealand v. England 	Carisbrook 	England won by 3 wickets
+193 	15/02/1992 	1991-1992 New Zealand v. England 	AMI Stadium 	England won by 71 runs
+194 	22/02/1992 	1991-1992 Benson & Hedges World Cup (v. India) 	WACA Ground 	England won by 9 runs
+195 	27/02/1992 	1991-1992 Benson & Hedges World Cup (v. West Indies) 	Melbourne Cricket Ground 	England won by 6 wickets
+196 	01/03/1992 	1991-1992 Benson & Hedges World Cup (v. Pakistan) 	Adelaide Oval 	No Result
+197 	05/03/1992 	1991-1992 Benson & Hedges World Cup (v. Australia) 	Sydney Cricket Ground 	England won by 8 wickets
+198 	09/03/1992 	1991-1992 Benson & Hedges World Cup (v. Sri Lanka) 	Eastern Oval 	England won by 106 runs
+199 	12/03/1992 	1991-1992 Benson & Hedges World Cup (v. South Africa) 	Melbourne Cricket Ground 	England won by 3 wickets
+200 	15/03/1992 	1991-1992 Benson & Hedges World Cup (v. New Zealand) 	Basin Reserve 	New Zealand won by 7 wickets
+201 	18/03/1992 	1991-1992 Benson & Hedges World Cup (v. Zimbabwe) 	Lavington Sports Oval 	Zimbabwe won by 9 runs
+202 	22/03/1992 	1991-1992 Benson & Hedges World Cup (v. South Africa) 	Sydney Cricket Ground 	England won by 19 runs
+203 	25/03/1992 	1991-1992 Benson & Hedges World Cup (v. Pakistan) 	Melbourne Cricket Ground 	Pakistan won by 22 runs
+204 	20/05/1992 	1992 Texaco Tophy (v. Pakistan) 	Lord's 	England won by 79 runs
+205 	22/05/1992 	1992 Texaco Tophy (v. Pakistan) 	Kennington Oval 	England won by 39 runs
+206 	20/08/1992 	1992 Texaco Tophy (v. Pakistan) 	Trent Bridge 	England won by 198 runs
+207 	22/08/1992 	1992 Texaco Tophy (v. Pakistan) 	Lord's 	Pakistan won by 3 runs
+208 	24/08/1992 	1992 Texaco Tophy (v. Pakistan) 	Old Trafford 	England won by 6 wickets
+209 	18/01/1993 	1992-1993 India v. England 	Sawai Mansingh Stadium 	England won by 4 wickets
+210 	21/01/1993 	1992-1993 India v. England 	Sector 16 Stadium 	India won by 5 wickets
+211 	26/02/1993 	1992-1993 India v. England 	M Chinnaswamy Stadium 	England won by 48 runs
+212 	01/03/1993 	1992-1993 India v. England 	Keenan Stadium 	England won by 6 wickets
+213 	04/03/1993 	1992-1993 India v. England 	Captain Roop Singh Stadium 	India won by 3 wickets
+214 	05/03/1993 	1992-1993 India v. England 	Captain Roop Singh Stadium 	India won by 4 wickets
+215 	10/03/1993 	1992-1993 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 32 runs
+216 	20/03/1993 	1992-1993 Sri Lanka v. England 	Tyronne Fernando Stadium 	Sri Lanka won by 8 wickets
+217 	19/05/1993 	1993 Texaco Trophy (v. Australia) 	Old Trafford 	Australia won by 4 runs
+218 	21/05/1993 	1993 Texaco Trophy (v. Australia) 	Edgbaston 	Australia won by 6 wickets
+219 	23/05/1993 	1993 Texaco Trophy (v. Australia) 	Lord's 	Australia won by 19 runs
+220 	16/02/1994 	1993-1994 West Indies v. England 	Kensington Oval 	England won by 61 runs
+221 	26/02/1994 	1993-1994 West Indies v. England 	Sabina Park 	West Indies won by 3 wickets
+222 	02/03/1994 	1993-1994 West Indies v. England 	Arnos Vale Ground 	West Indies won by 165 runs
+223 	05/03/1994 	1993-1994 West Indies v. England 	Queen's Park Oval 	West Indies won by 15 runs
+224 	06/03/1994 	1993-1994 West Indies v. England 	Queen's Park Oval 	England won by 5 wickets
+225 	19/05/1994 	1994 Texaco Trophy (v. New Zealand) 	Edgbaston 	England won by 42 runs
+226 	25/08/1994 	1994 Texaco Trophy (v. South Africa) 	Edgbaston 	England won by 6 wickets
+227 	27/08/1994 	1994 Texaco Trophy (v. South Africa) 	Old Trafford 	England won by 4 wickets
+228 	06/12/1994 	1994-1995 Benson & Hedges World Series (v. Australia) 	Sydney Cricket Ground 	Australia won by 28 runs
+229 	15/12/1994 	1994-1995 Benson & Hedges World Series (v. Zimbabwe) 	Sydney Cricket Ground 	Zimbabwe won by 13 runs
+230 	07/01/1995 	1994-1995 Benson & Hedges World Series (v. Zimbabwe) 	Brisbane Cricket Ground 	England won by 26 runs
+231 	10/01/1995 	1994-1995 Benson & Hedges World Series (v. Australia) 	Melbourne Cricket Ground 	England won by 37 runs
+232 	24/05/1995 	1995 Texaco Trophy (v. West Indies) 	Trent Bridge 	West Indies won by 5 wickets
+233 	26/05/1995 	1995 Texaco Trophy (v. West Indies) 	Kennington Oval 	England won by 25 runs
+234 	28/05/1995 	1995 Texaco Trophy (v. West Indies) 	Lord's 	England won by 73 runs
+235 	09/01/1996 	1995-1996 South Africa v. England 	Newlands 	South Africa won by 6 runs
+236 	11/01/1996 	1995-1996 South Africa v. England 	Mangaung Oval 	England won by 5 wickets
+237 	13/01/1996 	1995-1996 South Africa v. England 	Wanderers Stadium 	South Africa won by 3 wickets
+238 	14/01/1996 	1995-1996 South Africa v. England 	SuperSport Park 	South Africa won by 7 wickets
+239 	17/01/1996 	1995-1996 South Africa v. England 	Kingsmead 	South Africa won by 5 wickets
+240 	19/01/1996 	1995-1996 South Africa v. England 	Buffalo Park 	South Africa won by 14 runs
+241 	21/01/1996 	1995-1996 South Africa v. England 	St George's Park 	South Africa won by 64 runs
+242 	14/02/1996 	1995-1996 Wills World Cup (v. New Zealand) 	Sardar Patel Stadium 	New Zealand won by 11 runs
+243 	18/02/1996 	1995-1996 Wills World Cup (v. United Arab Emirates) 	Arbab Niaz Stadium 	England won by 8 wickets
+244 	22/02/1996 	1995-1996 Wills World Cup (v. Netherlands) 	Arbab Niaz Stadium 	England won by 49 runs
+245 	25/02/1996 	1995-1996 Wills World Cup (v. South Africa) 	Rawalpindi Cricket Stadium 	South Africa won by 78 runs
+246 	03/03/1996 	1995-1996 Wills World Cup (v. Pakistan) 	National Stadium (Karachi) 	Pakistan won by 7 wickets
+247 	09/03/1996 	1995-1996 Wills World Cup (v. Sri Lanka) 	Iqbal Stadium 	Sri Lanka won by 5 wickets
+248 	23/05/1996 	1996 Texaco Trophy (v. India) 	Kennington Oval 	No Result
+249 	25/05/1996 	1996 Texaco Trophy (v. India) 	Headingley 	England won by 6 wickets
+250 	26/05/1996 	1996 Texaco Trophy (v. India) 	Old Trafford 	England won by 4 wickets
+251 	29/08/1996 	1996 Texaco Trophy (v. Pakistan) 	Old Trafford 	England won by 5 wickets
+252 	31/08/1996 	1996 Texaco Trophy (v. Pakistan) 	Edgbaston 	England won by 107 runs
+253 	01/09/1996 	1996 Texaco Trophy (v. Pakistan) 	Trent Bridge 	Pakistan won by 2 wickets
+254 	15/12/1996 	1996-1997 Zimbabwe v. England 	Queens Sports Club 	Zimbabwe won by 2 wickets
+255 	01/01/1997 	1996-1997 Zimbabwe v. England 	Harare Sports Club 	Zimbabwe won by 7 runs
+256 	03/01/1997 	1996-1997 Zimbabwe v. England 	Harare Sports Club 	Zimbabwe won by 131 runs
+257 	20/02/1997 	1996-1997 New Zealand v. England 	AMI Stadium 	England won by 4 wickets
+258 	23/02/1997 	1996-1997 New Zealand v. England 	Eden Park 	England won by 6 wickets
+259 	26/02/1997 	1996-1997 New Zealand v. England 	McLean Park 	Match Tied
+260 	02/03/1997 	1996-1997 New Zealand v. England 	Eden Park 	New Zealand won by 9 runs
+261 	04/03/1997 	1996-1997 New Zealand v. England 	Basin Reserve 	New Zealand won by 28 runs
+262 	22/05/1997 	1997 Texaco Trophy (v. Australia) 	Headingley 	England won by 6 wickets
+263 	24/05/1997 	1997 Texaco Trophy (v. Australia) 	Kennington Oval 	England won by 6 wickets
+264 	25/05/1997 	1997 Texaco Trophy (v. Australia) 	Lord's 	England won by 6 wickets
+265 	11/12/1997 	1997-1998 Akai-Singer Champions Trophy (v. India) 	Sharjah Cricket Stadium 	England won by 7 runs
+266 	13/12/1997 	1997-1998 Akai-Singer Champions Trophy (v. West Indies) 	Sharjah Cricket Stadium 	England won by 4 wickets
+267 	15/12/1997 	1997-1998 Akai-Singer Champions Trophy (v. Pakistan) 	Sharjah Cricket Stadium 	England won by 8 runs
+268 	19/12/1997 	1997-1998 Akai-Singer Champions Trophy (v. West Indies) 	Sharjah Cricket Stadium 	England won by 3 wickets
+269 	29/03/1998 	1997-1998 West Indies v. England 	Kensington Oval 	England won by 16 runs
+270 	01/04/1998 	1997-1998 West Indies v. England 	Kensington Oval 	West Indies won by 1 wicket
+271 	04/04/1998 	1997-1998 West Indies v. England 	Arnos Vale Ground 	West Indies won by 5 wickets
+272 	05/04/1998 	1997-1998 West Indies v. England 	Arnos Vale Ground 	West Indies won by 4 wickets
+273 	08/04/1998 	1997-1998 West Indies v. England 	Queen's Park Oval 	West Indies won by 57 runs
+274 	21/05/1998 	1998 Texaco Trophy (v. South Africa) 	Kennington Oval 	South Africa won by 3 wickets
+275 	23/05/1998 	1998 Texaco Trophy (v. South Africa) 	Old Trafford 	South Africa won by 32 runs
+276 	24/05/1998 	1998 Texaco Trophy (v. South Africa) 	Headingley 	England won by 7 wickets
+277 	16/08/1998 	1998 Emirates Triangular Tournament (v. Sri Lanka) 	Lord's 	England won by 36 runs
+278 	18/08/1998 	1998 Emirates Triangular Tournament (v. South Africa) 	Edgbaston 	South Africa won by 14 runs
+279 	20/08/1998 	1998 Emirates Triangular Tournament (v. Sri Lanka) 	Lord's 	Sri Lanka won by 5 wickets
+280 	25/10/1998 	1998-1999 Wills International Cup (v. South Africa) 	Bangabandhu National Stadium 	South Africa won by 6 wickets
+281 	10/01/1999 	1998-1999 Carlton & United Series (v. Australia) 	Brisbane Cricket Ground 	England won by 7 runs
+282 	11/01/1999 	1998-1999 Carlton & United Series (v. Sri Lanka) 	Brisbane Cricket Ground 	England won by 4 wickets
+283 	15/01/1999 	1998-1999 Carlton & United Series (v. Australia) 	Melbourne Cricket Ground 	Australia won by 9 wickets
+284 	17/01/1999 	1998-1999 Carlton & United Series (v. Australia) 	Sydney Cricket Ground 	England won by 7 runs
+285 	19/01/1999 	1998-1999 Carlton & United Series (v. Sri Lanka) 	Melbourne Cricket Ground 	England won by 7 wickets
+286 	23/01/1999 	1998-1999 Carlton & United Series (v. Sri Lanka) 	Adelaide Oval 	Sri Lanka won by 1 wicket
+287 	26/01/1999 	1998-1999 Carlton & United Series (v. Australia) 	Adelaide Oval 	Australia won by 16 runs
+288 	29/01/1999 	1998-1999 Carlton & United Series (v. Sri Lanka) 	WACA Ground 	England won by 128 runs
+289 	03/02/1999 	1998-1999 Carlton & United Series (v. Sri Lanka) 	Sydney Cricket Ground 	Sri Lanka won by 11 runs
+290 	05/02/1999 	1998-1999 Carlton & United Series (v. Australia) 	Sydney Cricket Ground 	Australia won by 4 wickets
+291 	10/02/1999 	1998-1999 Carlton & United Series (v. Australia) 	Sydney Cricket Ground 	Australia won by 10 runs
+292 	13/02/1999 	1998-1999 Carlton & United Series (v. Australia) 	Melbourne Cricket Ground 	Australia won by 162 runs
+293 	07/04/1999 	1998-1999 Coca-Cola Cup (v. Pakistan) 	Sharjah Cricket Stadium 	Pakistan won by 90 runs
+294 	09/04/1999 	1998-1999 Coca-Cola Cup (v. India) 	Sharjah Cricket Stadium 	India won by 20 runs
+295 	11/04/1999 	1998-1999 Coca-Cola Cup (v. India) 	Sharjah Cricket Stadium 	India won by 9 runs
+296 	12/04/1999 	1998-1999 Coca-Cola Cup (v. Pakistan) 	Sharjah Cricket Stadium 	England won by 62 runs
+297 	14/05/1999 	1999 ICC World Cup (v. Sri Lanka) 	Lord's 	England won by 8 wickets
+298 	18/05/1999 	1999 ICC World Cup (v. Kenya) 	St Lawrence Ground 	England won by 9 wickets
+299 	22/05/1999 	1999 ICC World Cup (v. South Africa) 	Kennington Oval 	South Africa won by 122 runs
+300 	25/05/1999 	1999 ICC World Cup (v. Zimbabwe) 	Trent Bridge 	England won by 7 wickets
+301 	29/05/1999 	1999 ICC World Cup (v. India) 	Edgbaston 	India won by 63 runs
+302 	23/01/2000 	1999-2000 Standard Bank Triangular Tournament (v. South Africa) 	Mangaung Oval 	England won by 9 wickets
+303 	26/01/2000 	1999-2000 Standard Bank Triangular Tournament (v. South Africa) 	Newlands 	South Africa won by 1 run
+304 	28/01/2000 	1999-2000 Standard Bank Triangular Tournament (v. Zimbabwe) 	Newlands 	Zimbabwe won by 104 runs
+305 	30/01/2000 	1999-2000 Standard Bank Triangular Tournament (v. Zimbabwe) 	Diamond Oval 	England won by 8 wickets
+306 	04/02/2000 	1999-2000 Standard Bank Triangular Tournament (v. South Africa) 	Buffalo Park 	South Africa won by 2 wickets
+307 	13/02/2000 	1999-2000 Standard Bank Triangular Tournament (v. South Africa) 	Wanderers Stadium 	South Africa won by 38 runs
+308 	16/02/2000 	1999-2000 Zimbabwe v. England 	Queens Sports Club 	England won by 5 wickets
+309 	18/02/2000 	1999-2000 Zimbabwe v. England 	Queens Sports Club 	England won by 1 wicket
+310 	20/02/2000 	1999-2000 Zimbabwe v. England 	Harare Sports Club 	England won by 85 runs
+311 	08/07/2000 	2000 NatWest Series (v. Zimbabwe) 	Kennington Oval 	Zimbabwe won by 5 wickets
+312 	09/07/2000 	2000 NatWest Series (v. West Indies) 	Lord's 	No Result
+313 	13/07/2000 	2000 NatWest Series (v. Zimbabwe) 	Old Trafford 	England won by 8 wickets
+314 	15/07/2000 	2000 NatWest Series (v. West Indies) 	Riverside Ground 	England won by 10 wickets
+315 	18/07/2000 	2000 NatWest Series (v. Zimbabwe) 	Edgbaston 	England won by 52 runs
+316 	20/07/2000 	2000 NatWest Series (v. West Indies) 	Trent Bridge 	West Indies won by 3 runs
+317 	22/07/2000 	2000 NatWest Series (v. Zimbabwe) 	Lord's 	England won by 6 wickets
+318 	05/10/2000 	2000-2001 ICC Knock-Out (v. Bangladesh) 	Gymkhana Club Ground 	England won by 8 wickets
+319 	10/10/2000 	2000-2001 ICC Knock-Out (v. South Africa) 	Gymkhana Club Ground 	South Africa won by 8 wickets
+320 	24/10/2000 	2000-2001 Pakistan v. England 	National Stadium (Karachi) 	England won by 5 wickets
+321 	27/10/2000 	2000-2001 Pakistan v. England 	Gaddafi Stadium 	Pakistan won by 8 wickets
+322 	30/10/2000 	2000-2001 Pakistan v. England 	Rawalpindi Cricket Stadium 	Pakistan won by 6 wickets
+323 	23/03/2001 	2000-2001 Sri Lanka v. England 	Rangiri Dambulla International Stadium 	Sri Lanka won by 5 wickets
+324 	25/03/2001 	2000-2001 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 66 runs
+325 	27/03/2001 	2000-2001 Sri Lanka v. England 	Sinhalese Sports Club Ground 	Sri Lanka won by 10 wickets
+326 	07/06/2001 	2001 NatWest Series (v. Pakistan) 	Edgbaston 	Pakistan won by 108 runs
+327 	10/06/2001 	2001 NatWest Series (v. Australia) 	County Ground (Bristol) 	Australia won by 5 wickets
+328 	12/06/2001 	2001 NatWest Series (v. Pakistan) 	Lord's 	Pakistan won by 2 runs
+329 	14/06/2001 	2001 NatWest Series (v. Australia) 	Old Trafford 	Australia won by 125 runs
+330 	17/06/2001 	2001 NatWest Series (v. Pakistan) 	Headingley 	Pakistan won (england conceded match)
+331 	21/06/2001 	2001 NatWest Series (v. Australia) 	Kennington Oval 	Australia won by 8 wickets
+332 	03/10/2001 	2001-2002 Zimbabwe v. England 	Harare Sports Club 	England won by 5 wickets
+333 	06/10/2001 	2001-2002 Zimbabwe v. England 	Harare Sports Club 	England won by 8 wickets
+334 	07/10/2001 	2001-2002 Zimbabwe v. England 	Harare Sports Club 	England won by 4 wickets
+335 	10/10/2001 	2001-2002 Zimbabwe v. England 	Queens Sports Club 	England won by 70 runs
+336 	13/10/2001 	2001-2002 Zimbabwe v. England 	Queens Sports Club 	England won by 7 wickets
+337 	19/01/2002 	2001-2002 India v. England 	Eden Gardens 	India won by 22 runs
+338 	22/01/2002 	2001-2002 India v. England 	Barabati Stadium 	England won by 16 runs
+339 	25/01/2002 	2001-2002 India v. England 	MA Chidambaram Stadium 	India won by 4 wickets
+340 	28/01/2002 	2001-2002 India v. England 	Green Park 	India won by 8 wickets
+341 	31/01/2002 	2001-2002 India v. England 	Arun Jaitley Stadium 	England won by 2 runs
+342 	03/02/2002 	2001-2002 India v. England 	Wankhede Stadium 	England won by 5 runs
+343 	13/02/2002 	2001-2002 New Zealand v. England 	AMI Stadium 	New Zealand won by 4 wickets
+344 	16/02/2002 	2001-2002 New Zealand v. England 	Westpac Stadium 	New Zealand won by 155 runs
+345 	20/02/2002 	2001-2002 New Zealand v. England 	McLean Park 	England won by 43 runs
+346 	23/02/2002 	2001-2002 New Zealand v. England 	Eden Park 	England won by 33 runs
+347 	26/02/2002 	2001-2002 New Zealand v. England 	Carisbrook 	New Zealand won by 5 wickets
+348 	27/06/2002 	2002 NatWest Series (v. Sri Lanka) 	Trent Bridge 	England won by 44 runs
+349 	29/06/2002 	2002 NatWest Series (v. India) 	Lord's 	India won by 6 wickets
+350 	02/07/2002 	2002 NatWest Series (v. Sri Lanka) 	Headingley 	England won by 3 wickets
+351 	04/07/2002 	2002 NatWest Series (v. India) 	Riverside Ground 	No Result
+352 	07/07/2002 	2002 NatWest Series (v. Sri Lanka) 	Old Trafford 	Sri Lanka won by 23 runs
+353 	09/07/2002 	2002 NatWest Series (v. India) 	Kennington Oval 	England won by 64 runs
+354 	13/07/2002 	2002 NatWest Series (v. India) 	Lord's 	India won by 2 wickets
+355 	18/09/2002 	2002-2003 ICC Champions Trophy (v. Zimbabwe) 	R Premadasa Stadium 	England won by 108 runs
+356 	22/09/2002 	2002-2003 ICC Champions Trophy (v. India) 	R Premadasa Stadium 	India won by 8 wickets
+357 	13/12/2002 	2002-2003 Australia v. England 	Sydney Cricket Ground 	Australia won by 7 wickets
+358 	15/12/2002 	2002-2003 Australia v. England 	Melbourne Cricket Ground 	Australia won by 89 runs
+359 	17/12/2002 	2002-2003 England v. Sri Lanka 	Brisbane Cricket Ground 	England won by 43 runs
+360 	20/12/2002 	2002-2003 England v. Sri Lanka 	WACA Ground 	England won by 95 runs
+361 	11/01/2003 	2002-2003 Australia v. England 	Bellerive Oval 	Australia won by 7 runs
+362 	13/01/2003 	2002-2003 Sri Lanka v. England 	Sydney Cricket Ground 	Sri Lanka won by 31 runs
+363 	17/01/2003 	2002-2003 Sri Lanka v. England 	Adelaide Oval 	England won by 19 runs
+364 	19/01/2003 	2002-2003 Australia v. England 	Adelaide Oval 	Australia won by 4 wickets
+365 	23/01/2003 	2002-2003 Australia v. England 	Sydney Cricket Ground 	Australia won by 10 wickets
+366 	25/01/2003 	2002-2003 Australia v. England 	Melbourne Cricket Ground 	Australia won by 5 runs
+367 	13/02/2003 	2002-2003 ICC World Cup (v. Zimbabwe) 	Harare Sports Club 	Zimbabwe won by default
+368 	16/02/2003 	2002-2003 ICC World Cup (v. Netherlands) 	Buffalo Park 	England won by 6 wickets
+369 	19/02/2003 	2002-2003 ICC World Cup (v. Namibia) 	St George's Park 	England won by 55 runs
+370 	22/02/2003 	2002-2003 ICC World Cup (v. Pakistan) 	Newlands 	England won by 112 runs
+371 	26/02/2003 	2002-2003 ICC World Cup (v. India) 	Kingsmead 	India won by 82 runs
+372 	02/03/2003 	2002-2003 ICC World Cup (v. Australia) 	St George's Park 	Australia won by 2 wickets
+373 	17/06/2003 	2003 NatWest Challenge (v. Pakistan) 	Old Trafford 	Pakistan won by 2 wickets
+374 	20/06/2003 	2003 NatWest Challenge (v. Pakistan) 	Kennington Oval 	England won by 7 wickets
+375 	22/06/2003 	2003 NatWest Challenge (v. Pakistan) 	Lord's 	England won by 4 wickets
+376 	26/06/2003 	2003 Natwest Series (v. Zimbabwe) 	Trent Bridge 	Zimbabwe won by 4 wickets
+377 	28/06/2003 	2003 Natwest Series (v. South Africa) 	Kennington Oval 	England won by 6 wickets
+378 	01/07/2003 	2003 Natwest Series (v. Zimbabwe) 	Headingley 	No Result
+379 	03/07/2003 	2003 Natwest Series (v. South Africa) 	Old Trafford 	South Africa won by 7 wickets
+380 	06/07/2003 	2003 Natwest Series (v. Zimbabwe) 	County Ground (Bristol) 	England won by 6 wickets
+381 	08/07/2003 	2003 Natwest Series (v. South Africa) 	Edgbaston 	England won by 4 wickets
+382 	12/07/2003 	2003 Natwest Series (v. South Africa) 	Lord's 	England won by 7 wickets
+383 	07/11/2003 	2003-2004 Bangladesh v. England 	MA Aziz Stadium 	England won by 7 wickets
+384 	10/11/2003 	2003-2004 Bangladesh v. England 	Bangabandhu National Stadium 	England won by 7 wickets
+385 	12/11/2003 	2003-2004 Bangladesh v. England 	Bangabandhu National Stadium 	England won by 7 wickets
+386 	18/11/2003 	2003-2004 Sri Lanka v. England 	Rangiri Dambulla International Stadium 	Sri Lanka won by 10 wickets
+387 	18/04/2004 	2003-2004 West Indies v. England 	Bourda 	England won by 2 wickets
+388 	24/04/2004 	2003-2004 West Indies v. England 	Queen's Park Oval 	No Result
+389 	01/05/2004 	2003-2004 West Indies v. England 	Darren Sammy National Cricket Stadium 	West Indies won by 5 wickets
+390 	02/05/2004 	2003-2004 West Indies v. England 	Darren Sammy National Cricket Stadium 	West Indies won by 4 wickets
+391 	05/05/2004 	2003-2004 West Indies v. England 	Kensington Oval 	England won by 5 wickets
+392 	27/06/2004 	2004 Natwest Series (v. West Indies) 	Trent Bridge 	West Indies won by 7 wickets
+393 	29/06/2004 	2004 Natwest Series (v. New Zealand) 	Riverside Ground 	New Zealand won by 7 wickets
+394 	01/07/2004 	2004 Natwest Series (v. West Indies) 	Headingley 	England won by 3 wickets
+395 	04/07/2004 	2004 Natwest Series (v. New Zealand) 	County Ground (Bristol) 	New Zealand won by 6 wickets
+396 	06/07/2004 	2004 Natwest Series (v. West Indies) 	Lord's 	West Indies won by 7 wickets
+397 	01/09/2004 	2004 NatWest Challenge (v. India) 	Trent Bridge 	England won by 7 wickets
+398 	03/09/2004 	2004 NatWest Challenge (v. India) 	Kennington Oval 	England won by 70 runs
+399 	05/09/2004 	2004 NatWest Challenge (v. India) 	Lord's 	India won by 23 runs
+400 	10/09/2004 	2004 ICC Champions Trophy (v. Zimbabwe) 	Edgbaston 	England won by 152 runs
+401 	17/09/2004 	2004 ICC Champions Trophy (v. Sri Lanka) 	The Rose Bowl 	England won by 49 runs
+402 	20/09/2004 	2004 ICC Champions Trophy (v. Australia) 	Edgbaston 	England won by 6 wickets
+403 	25/09/2004 	2004 ICC Champions Trophy (v. West Indies) 	Kennington Oval 	West Indies won by 2 wickets
+404 	28/11/2004 	2004-2005 Zimbabwe v. England 	Harare Sports Club 	England won by 5 wickets
+405 	01/12/2004 	2004-2005 Zimbabwe v. England 	Harare Sports Club 	England won by 161 runs
+406 	04/12/2004 	2004-2005 Zimbabwe v. England 	Queens Sports Club 	England won by 8 wickets
+407 	05/12/2004 	2004-2005 Zimbabwe v. England 	Queens Sports Club 	England won by 74 runs
+408 	30/01/2005 	2004-2005 South Africa v. England 	Wanderers Stadium 	England won by 26 runs
+409 	02/02/2005 	2004-2005 South Africa v. England 	Mangaung Oval 	Match Tied
+410 	04/02/2005 	2004-2005 South Africa v. England 	St George's Park 	South Africa won by 3 wickets
+411 	06/02/2005 	2004-2005 South Africa v. England 	Newlands 	South Africa won by 108 runs
+412 	09/02/2005 	2004-2005 South Africa v. England 	Buffalo Park 	South Africa won by 7 runs
+413 	11/02/2005 	2004-2005 South Africa v. England 	Kingsmead 	No Result
+414 	13/02/2005 	2004-2005 South Africa v. England 	SuperSport Park 	South Africa won by 3 wickets
+415 	16/06/2005 	2005 Natwest Series (v. Bangladesh) 	Kennington Oval 	England won by 10 wickets
+416 	19/06/2005 	2005 Natwest Series (v. Australia) 	County Ground (Bristol) 	England won by 3 wickets
+417 	21/06/2005 	2005 Natwest Series (v. Bangladesh) 	Trent Bridge 	England won by 168 runs
+418 	23/06/2005 	2005 Natwest Series (v. Australia) 	Riverside Ground 	Australia won by 57 runs
+419 	26/06/2005 	2005 Natwest Series (v. Bangladesh) 	Headingley 	England won by 5 wickets
+420 	28/06/2005 	2005 Natwest Series (v. Australia) 	Edgbaston 	No Result
+421 	02/07/2005 	2005 Natwest Series (v. Australia) 	Lord's 	Match Tied
+422 	07/07/2005 	2005 NatWest Challenge (v. Australia) 	Headingley 	England won by 9 wickets
+423 	10/07/2005 	2005 NatWest Challenge (v. Australia) 	Lord's 	Australia won by 7 wickets
+424 	12/07/2005 	2005 NatWest Challenge (v. Australia) 	Kennington Oval 	Australia won by 8 wickets
+425 	10/12/2005 	2005-2006 Pakistan v. England 	Gaddafi Stadium 	England won by 42 runs
+426 	12/12/2005 	2005-2006 Pakistan v. England 	Gaddafi Stadium 	Pakistan won by 7 wickets
+427 	15/12/2005 	2005-2006 Pakistan v. England 	National Stadium (Karachi) 	Pakistan won by 165 runs
+428 	19/12/2005 	2005-2006 Pakistan v. England 	Rawalpindi Cricket Stadium 	Pakistan won by 13 runs
+429 	21/12/2005 	2005-2006 Pakistan v. England 	Rawalpindi Cricket Stadium 	England won by 6 runs
+430 	28/03/2006 	2005-2006 India v. England 	Arun Jaitley Stadium 	India won by 39 runs
+431 	31/03/2006 	2005-2006 India v. England 	Nahar Singh Stadium 	India won by 4 wickets
+432 	03/04/2006 	2005-2006 India v. England 	Nehru Stadium (Margao) 	India won by 49 runs
+433 	06/04/2006 	2005-2006 India v. England 	Nehru Stadium (Kochi) 	India won by 4 wickets
+434 	12/04/2006 	2005-2006 India v. England 	Keenan Stadium 	England won by 5 wickets
+435 	15/04/2006 	2005-2006 India v. England 	Holkar Cricket Stadium 	India won by 7 wickets
+436 	13/06/2006 	2005 Ireland v. England 	Civil Service Cricket Club 	England won by 38 runs
+437 	17/06/2006 	2006 England v. Sri Lanka 	Lord's 	Sri Lanka won by 20 runs
+438 	20/06/2006 	2006 England v. Sri Lanka 	Kennington Oval 	Sri Lanka won by 46 runs
+439 	24/06/2006 	2006 England v. Sri Lanka 	Riverside Ground 	Sri Lanka won by 8 wickets
+440 	28/06/2006 	2006 England v. Sri Lanka 	Old Trafford 	Sri Lanka won by 33 runs
+441 	01/07/2006 	2006 England v. Sri Lanka 	Headingley 	Sri Lanka won by 8 wickets
+442 	30/08/2006 	2006 NatWest Series (v. Pakistan) 	Sophia Gardens 	No Result
+443 	02/09/2006 	2006 NatWest Series (v. Pakistan) 	Lord's 	Pakistan won by 7 wickets
+444 	05/09/2006 	2006 NatWest Series (v. Pakistan) 	The Rose Bowl 	Pakistan won by 2 wickets
+445 	08/09/2006 	2006 NatWest Series (v. Pakistan) 	Trent Bridge 	England won by 8 wickets
+446 	10/09/2006 	2006 NatWest Series (v. Pakistan) 	Edgbaston 	England won by 3 wickets
+447 	15/10/2006 	2006-2007 ICC Champions Trophy (v. India) 	Sawai Mansingh Stadium 	India won by 4 wickets
+448 	21/10/2006 	2006-2007 ICC Champions Trophy (v. Australia) 	Sawai Mansingh Stadium 	Australia won by 6 wickets
+449 	28/10/2006 	2006-2007 ICC Champions Trophy (v. West Indies) 	Sardar Patel Stadium 	England won by 3 wickets
+450 	12/01/2007 	2006-2007 Commonwealth Bank Series (v. Australia) 	Melbourne Cricket Ground 	Australia won by 8 wickets
+451 	16/01/2007 	2006-2007 Commonwealth Bank Series (v. New Zealand) 	Bellerive Oval 	England won by 3 wickets
+452 	19/01/2007 	2006-2007 Commonwealth Bank Series (v. Australia) 	Brisbane Cricket Ground 	Australia won by 4 wickets
+453 	23/01/2007 	2006-2007 Commonwealth Bank Series (v. New Zealand) 	Adelaide Oval 	New Zealand won by 90 runs
+454 	26/01/2007 	2006-2007 Commonwealth Bank Series (v. Australia) 	Adelaide Oval 	Australia won by 9 wickets
+455 	30/01/2007 	2006-2007 Commonwealth Bank Series (v. New Zealand) 	WACA Ground 	New Zealand won by 58 runs
+456 	02/02/2007 	2006-2007 Commonwealth Bank Series (v. Australia) 	Sydney Cricket Ground 	England won by 92 runs
+457 	06/02/2007 	2006-2007 Commonwealth Bank Series (v. New Zealand) 	Brisbane Cricket Ground 	England won by 14 runs
+458 	09/02/2007 	2006-2007 Commonwealth Bank Series (v. Australia) 	Melbourne Cricket Ground 	England won by 4 wickets
+459 	11/02/2007 	2006-2007 Commonwealth Bank Series (v. Australia) 	Sydney Cricket Ground 	England won by 34 runs
+460 	16/03/2007 	2006-2007 ICC World Cup (v. New Zealand) 	Darren Sammy National Cricket Stadium 	New Zealand won by 6 wickets
+461 	18/03/2007 	2006-2007 ICC World Cup (v. Canada) 	Darren Sammy National Cricket Stadium 	England won by 51 runs
+462 	24/03/2007 	2006-2007 ICC World Cup (v. Kenya) 	Darren Sammy National Cricket Stadium 	England won by 7 wickets
+463 	30/03/2007 	2006-2007 ICC World Cup (v. Ireland) 	Providence Stadium 	England won by 48 runs
+464 	04/04/2007 	2006-2007 ICC World Cup (v. Sri Lanka) 	Sir Vivian Richards Stadium 	Sri Lanka won by 2 runs
+465 	08/04/2007 	2006-2007 ICC World Cup (v. Australia) 	Sir Vivian Richards Stadium 	Australia won by 7 wickets
+466 	11/04/2007 	2006-2007 ICC World Cup (v. Bangladesh) 	Kensington Oval 	England won by 4 wickets
+467 	17/04/2007 	2006-2007 ICC World Cup (v. South Africa) 	Kensington Oval 	South Africa won by 9 wickets
+468 	21/04/2007 	2006-2007 ICC World Cup (v. West Indies) 	Kensington Oval 	England won by 1 wicket
+469 	01/07/2007 	2007 Natwest Series (v. West Indies) 	Lord's 	England won by 79 runs
+470 	04/07/2007 	2007 Natwest Series (v. West Indies) 	Edgbaston 	West Indies won by 61 runs
+471 	07/07/2007 	2007 Natwest Series (v. West Indies) 	Trent Bridge 	West Indies won by 93 runs
+472 	21/08/2007 	2007 England v. India 	The Rose Bowl 	England won by 104 runs
+473 	24/08/2007 	2007 England v. India 	County Ground (Bristol) 	India won by 9 runs
+474 	27/08/2007 	2007 England v. India 	Edgbaston 	England won by 42 runs
+475 	30/08/2007 	2007 England v. India 	Old Trafford 	England won by 3 wickets
+476 	02/09/2007 	2007 England v. India 	Headingley 	India won by 38 runs
+477 	05/09/2007 	2007 England v. India 	Kennington Oval 	India won by 2 wickets
+478 	08/09/2007 	2007 England v. India 	Lord's 	England won by 7 wickets
+479 	01/10/2007 	2007-2008 Sri Lanka v. England 	Rangiri Dambulla International Stadium 	Sri Lanka won by 119 runs
+480 	04/10/2007 	2007-2008 Sri Lanka v. England 	Rangiri Dambulla International Stadium 	England won by 65 runs
+481 	07/10/2007 	2007-2008 Sri Lanka v. England 	Rangiri Dambulla International Stadium 	England won by 2 wickets
+482 	10/10/2007 	2007-2008 Sri Lanka v. England 	R Premadasa Stadium 	England won by 5 wickets
+483 	13/10/2007 	2007-2008 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 107 runs
+484 	09/02/2008 	2007-2008 New Zealand v. England 	Westpac Stadium 	New Zealand won by 6 wickets
+485 	12/02/2008 	2007-2008 New Zealand v. England 	Seddon Park 	New Zealand won by 10 wickets
+486 	15/02/2008 	2007-2008 New Zealand v. England 	Eden Park 	England won by 6 wickets
+487 	20/02/2008 	2007-2008 New Zealand v. England 	McLean Park 	Match Tied
+488 	23/02/2008 	2007-2008 New Zealand v. England 	AMI Stadium 	New Zealand won by 34 runs
+489 	15/06/2008 	2008 NatWest Series ENG v NZL (v. New Zealand) 	Riverside Ground 	England won by 114 runs
+490 	18/06/2008 	2008 NatWest Series ENG v NZL (v. New Zealand) 	Edgbaston 	No Result
+491 	21/06/2008 	2008 NatWest Series ENG v NZL (v. New Zealand) 	County Ground (Bristol) 	New Zealand won by 22 runs
+492 	25/06/2008 	2008 NatWest Series ENG v NZL (v. New Zealand) 	Kennington Oval 	New Zealand won by 1 wicket
+493 	27/06/2008 	2008 NatWest Series ENG v NZL (v. New Zealand) 	Lord's 	New Zealand won by 51 runs
+494 	18/08/2008 	2008 Scotland v. England 	Grange Cricket Club 	No Result
+495 	22/08/2008 	2008 NatWest Series ENG v SAF (v. South Africa) 	Headingley 	England won by 20 runs
+496 	26/08/2008 	2008 NatWest Series ENG v SAF (v. South Africa) 	Trent Bridge 	England won by 10 wickets
+497 	29/08/2008 	2008 NatWest Series ENG v SAF (v. South Africa) 	Kennington Oval 	England won by 126 runs
+498 	31/08/2008 	2008 NatWest Series ENG v SAF (v. South Africa) 	Lord's 	England won by 7 wickets
+499 	03/09/2008 	2008 NatWest Series ENG v SAF (v. South Africa) 	Sophia Gardens 	No Result
+500 	14/11/2008 	2008-2009 India v. England 	Madhavrao Scindia Cricket Ground 	India won by 158 runs
+501 	17/11/2008 	2008-2009 India v. England 	Holkar Cricket Stadium 	India won by 54 runs
+502 	20/11/2008 	2008-2009 India v. England 	Green Park 	India won by 16 runs
+503 	23/11/2008 	2008-2009 India v. England 	M Chinnaswamy Stadium 	India won by 19 runs
+504 	26/11/2008 	2008-2009 India v. England 	Barabati Stadium 	India won by 6 wickets
+505 	20/03/2009 	2008-2009 West Indies v. England 	Providence Stadium 	England won by 1 run
+506 	22/03/2009 	2008-2009 West Indies v. England 	Providence Stadium 	West Indies won by 21 runs
+507 	27/03/2009 	2008-2009 West Indies v. England 	Kensington Oval 	West Indies won by 8 wickets
+508 	29/03/2009 	2008-2009 West Indies v. England 	Kensington Oval 	England won by 9 wickets
+509 	03/04/2009 	2008-2009 West Indies v. England 	Darren Sammy National Cricket Stadium 	England won by 26 runs
+510 	24/05/2009 	2009 Natwest Series ENG v WIN (v. West Indies) 	County Ground (Bristol) 	England won by 6 wickets
+511 	26/05/2009 	2009 Natwest Series ENG v WIN (v. West Indies) 	Edgbaston 	England won by 58 runs
+512 	27/08/2009 	2009 Ireland v. England 	Civil Service Cricket Club 	England won by 2 runs
+513 	04/09/2009 	2009 Natwest Series ENG v AUS (v. Australia) 	Kennington Oval 	Australia won by 4 runs
+514 	06/09/2009 	2009 Natwest Series ENG v AUS (v. Australia) 	Lord's 	Australia won by 39 runs
+515 	09/09/2009 	2009 Natwest Series ENG v AUS (v. Australia) 	The Rose Bowl 	Australia won by 6 wickets
+516 	12/09/2009 	2009 Natwest Series ENG v AUS (v. Australia) 	Lord's 	Australia won by 7 wickets
+517 	15/09/2009 	2009 Natwest Series ENG v AUS (v. Australia) 	Trent Bridge 	Australia won by 4 wickets
+518 	17/09/2009 	2009 Natwest Series ENG v AUS (v. Australia) 	Trent Bridge 	Australia won by 111 runs
+519 	20/09/2009 	2009 Natwest Series ENG v AUS (v. Australia) 	Riverside Ground 	England won by 4 wickets
+520 	25/09/2009 	2009-2010 ICC Champions Trophy (v. Sri Lanka) 	Wanderers Stadium 	England won by 6 wickets
+521 	27/09/2009 	2009-2010 ICC Champions Trophy (v. South Africa) 	SuperSport Park 	England won by 22 runs
+522 	29/09/2009 	2009-2010 ICC Champions Trophy (v. New Zealand) 	Wanderers Stadium 	New Zealand won by 4 wickets
+523 	02/10/2009 	2009-2010 ICC Champions Trophy (v. Australia) 	SuperSport Park 	Australia won by 9 wickets
+524 	22/11/2009 	2009-2010 South Africa v. England 	SuperSport Park 	England won by 7 wickets
+525 	27/11/2009 	2009-2010 South Africa v. England 	Newlands 	South Africa won by 112 runs
+526 	29/11/2009 	2009-2010 South Africa v. England 	St George's Park 	England won by 7 wickets
+527 	28/02/2010 	2009-2010 Bangladesh v. England 	Shere Bangla National Stadium 	England won by 6 wickets
+528 	02/03/2010 	2009-2010 Bangladesh v. England 	Shere Bangla National Stadium 	England won by 2 wickets
+529 	05/03/2010 	2009-2010 Bangladesh v. England 	Zahur Ahmed Chowdhury Stadium 	England won by 45 runs
+530 	19/06/2010 	2010 Scotland v. England 	Grange Cricket Club 	England won by 7 wickets
+531 	22/06/2010 	2010 Natwest Series ENG v AUS (v. Australia) 	The Rose Bowl 	England won by 4 wickets
+532 	24/06/2010 	2010 Natwest Series ENG v AUS (v. Australia) 	Sophia Gardens 	England won by 4 wickets
+533 	27/06/2010 	2010 Natwest Series ENG v AUS (v. Australia) 	Old Trafford 	England won by 1 wicket
+534 	30/06/2010 	2010 Natwest Series ENG v AUS (v. Australia) 	Kennington Oval 	Australia won by 78 runs
+535 	03/07/2010 	2010 Natwest Series ENG v AUS (v. Australia) 	Lord's 	Australia won by 42 runs
+536 	08/07/2010 	2010 Natwest Series ENG v BAN (v. Bangladesh) 	Trent Bridge 	England won by 6 wickets
+537 	10/07/2010 	2010 Natwest Series ENG v BAN (v. Bangladesh) 	County Ground (Bristol) 	Bangladesh won by 5 runs
+538 	12/07/2010 	2010 Natwest Series ENG v BAN (v. Bangladesh) 	Edgbaston 	England won by 144 runs
+539 	10/09/2010 	2010 Natwest Series ENG v PAK (v. Pakistan) 	Riverside Ground 	England won by 24 runs
+540 	12/09/2010 	2010 Natwest Series ENG v PAK (v. Pakistan) 	Headingley 	England won by 4 wickets
+541 	17/09/2010 	2010 Natwest Series ENG v PAK (v. Pakistan) 	Kennington Oval 	Pakistan won by 23 runs
+542 	20/09/2010 	2010 Natwest Series ENG v PAK (v. Pakistan) 	Lord's 	Pakistan won by 38 runs
+543 	22/09/2010 	2010 Natwest Series ENG v PAK (v. Pakistan) 	The Rose Bowl 	England won by 121 runs
+544 	16/01/2011 	2010-2011 Australia v. England 	Melbourne Cricket Ground 	Australia won by 6 wickets
+545 	21/01/2011 	2010-2011 Australia v. England 	Bellerive Oval 	Australia won by 46 runs
+546 	23/01/2011 	2010-2011 Australia v. England 	Sydney Cricket Ground 	Australia won by 4 wickets
+547 	26/01/2011 	2010-2011 Australia v. England 	Adelaide Oval 	England won by 21 runs
+548 	30/01/2011 	2010-2011 Australia v. England 	Brisbane Cricket Ground 	Australia won by 51 runs
+549 	02/02/2011 	2010-2011 Australia v. England 	Sydney Cricket Ground 	Australia won by 2 wickets
+550 	06/02/2011 	2010-2011 Australia v. England 	WACA Ground 	Australia won by 57 runs
+551 	22/02/2011 	2010-2011 ICC World Cup (v. Netherlands) 	Vidarbha Cricket Association Stadium 	England won by 6 wickets
+552 	27/02/2011 	2010-2011 ICC World Cup (v. India) 	M Chinnaswamy Stadium 	Match Tied
+553 	02/03/2011 	2010-2011 ICC World Cup (v. Ireland) 	M Chinnaswamy Stadium 	Ireland won by 3 wickets
+554 	06/03/2011 	2010-2011 ICC World Cup (v. South Africa) 	MA Chidambaram Stadium 	England won by 6 runs
+555 	11/03/2011 	2010-2011 ICC World Cup (v. Bangladesh) 	Zahur Ahmed Chowdhury Stadium 	Bangladesh won by 2 wickets
+556 	17/03/2011 	2010-2011 ICC World Cup (v. West Indies) 	MA Chidambaram Stadium 	England won by 18 runs
+557 	26/03/2011 	2010-2011 ICC World Cup (v. Sri Lanka) 	R Premadasa Stadium 	Sri Lanka won by 10 wickets
+558 	28/06/2011 	2011 England v. Sri Lanka 	Kennington Oval 	England won by 110 runs
+559 	01/07/2011 	2011 England v. Sri Lanka 	Headingley 	Sri Lanka won by 69 runs
+560 	03/07/2011 	2011 England v. Sri Lanka 	Lord's 	Sri Lanka won by 7 wickets
+561 	06/07/2011 	2011 England v. Sri Lanka 	Trent Bridge 	England won by 10 wickets
+562 	09/07/2011 	2011 England v. Sri Lanka 	Old Trafford 	England won by 16 runs
+563 	25/08/2011 	2011 Ireland v. England 	Castle Avenue 	England won by 11 runs
+564 	03/09/2011 	2011 England v. India 	Riverside Ground 	No Result
+565 	06/09/2011 	2011 England v. India 	The Rose Bowl 	England won by 7 wickets
+566 	09/09/2011 	2011 England v. India 	Kennington Oval 	England won by 3 wickets
+567 	11/09/2011 	2011 England v. India 	Lord's 	Match Tied
+568 	16/09/2011 	2011 England v. India 	Sophia Gardens 	England won by 6 wickets
+569 	14/10/2011 	2011-2012 India v. England 	Rajiv Gandhi International Stadium 	India won by 126 runs
+570 	17/10/2011 	2011-2012 India v. England 	Arun Jaitley Stadium 	India won by 8 wickets
+571 	20/10/2011 	2011-2012 India v. England 	Punjab Cricket Association IS Bindra Stadium 	India won by 5 wickets
+572 	23/10/2011 	2011-2012 India v. England 	Wankhede Stadium 	India won by 6 wickets
+573 	25/10/2011 	2011-2012 India v. England 	Eden Gardens 	India won by 95 runs
+574 	13/02/2012 	2011-2012 Pakistan v. England 	Sheikh Zayed Stadium 	England won by 130 runs
+575 	15/02/2012 	2011-2012 Pakistan v. England 	Sheikh Zayed Stadium 	England won by 20 runs
+576 	18/02/2012 	2011-2012 Pakistan v. England 	Dubai International Cricket Stadium 	England won by 9 wickets
+577 	21/02/2012 	2011-2012 Pakistan v. England 	Dubai International Cricket Stadium 	England won by 4 wickets
+578 	16/06/2012 	2012 England v. West Indies 	The Rose Bowl 	England won by 114 runs
+579 	19/06/2012 	2012 England v. West Indies 	Kennington Oval 	England won by 8 wickets
+580 	29/06/2012 	2012 England v. Australia 	Lord's 	England won by 15 runs
+581 	01/07/2012 	2012 England v. Australia 	Kennington Oval 	England won by 6 wickets
+582 	07/07/2012 	2012 England v. Australia 	Riverside Ground 	England won by 8 wickets
+583 	10/07/2012 	2012 England v. Australia 	Old Trafford 	England won by 7 wickets
+584 	24/08/2012 	2012 England v. South Africa 	Sophia Gardens 	No Result
+585 	28/08/2012 	2012 England v. South Africa 	The Rose Bowl 	South Africa won by 80 runs
+586 	31/08/2012 	2012 England v. South Africa 	Kennington Oval 	England won by 4 wickets
+587 	02/09/2012 	2012 England v. South Africa 	Lord's 	England won by 6 wickets
+588 	05/09/2012 	2012 England v. South Africa 	Trent Bridge 	South Africa won by 7 wickets
+589 	11/01/2013 	2012-2013 India v. England 	Saurashtra Cricket Association Stadium 	England won by 9 runs
+590 	15/01/2013 	2012-2013 India v. England 	Nehru Stadium (Kochi) 	India won by 127 runs
+591 	19/01/2013 	2012-2013 India v. England 	JSCA International Stadium Complex 	India won by 7 wickets
+592 	23/01/2013 	2012-2013 India v. England 	Punjab Cricket Association IS Bindra Stadium 	India won by 5 wickets
+593 	27/01/2013 	2012-2013 India v. England 	Himachal Pradesh Cricket Association Stadium 	England won by 7 wickets
+594 	17/02/2013 	2012-2013 New Zealand v. England 	Seddon Park 	New Zealand won by 3 wickets
+595 	20/02/2013 	2012-2013 New Zealand v. England 	McLean Park 	England won by 8 wickets
+596 	23/02/2013 	2012-2013 New Zealand v. England 	Eden Park 	England won by 5 wickets
+597 	31/05/2013 	2013 England v. New Zealand 	Lord's 	New Zealand won by 5 wickets
+598 	02/06/2013 	2013 England v. New Zealand 	The Rose Bowl 	New Zealand won by 86 runs
+599 	05/06/2013 	2013 England v. New Zealand 	Trent Bridge 	England won by 34 runs
+600 	08/06/2013 	2013 ICC Champions Trophy (v. Australia) 	Edgbaston 	England won by 48 runs
+601 	13/06/2013 	2013 ICC Champions Trophy (v. Sri Lanka) 	Kennington Oval 	Sri Lanka won by 7 wickets
+602 	16/06/2013 	2013 ICC Champions Trophy (v. New Zealand) 	Sophia Gardens 	England won by 10 runs
+603 	19/06/2013 	2013 ICC Champions Trophy (v. South Africa) 	Kennington Oval 	England won by 7 wickets
+604 	23/06/2013 	2013 ICC Champions Trophy (v. India) 	Edgbaston 	India won by 5 runs
+605 	03/09/2013 	2013 Ireland v. England 	The Village 	England won by 6 wickets
+606 	08/09/2013 	2013 England v. Australia 	Old Trafford 	Australia won by 88 runs
+607 	11/09/2013 	2013 England v. Australia 	Edgbaston 	No Result
+608 	14/09/2013 	2013 England v. Australia 	Sophia Gardens 	England won by 3 wickets
+609 	16/09/2013 	2013 England v. Australia 	The Rose Bowl 	Australia won by 49 runs
+610 	12/01/2014 	2013-2014 Australia v. England 	Melbourne Cricket Ground 	Australia won by 6 wickets
+611 	17/01/2014 	2013-2014 Australia v. England 	Brisbane Cricket Ground 	Australia won by 1 wicket
+612 	19/01/2014 	2013-2014 Australia v. England 	Sydney Cricket Ground 	Australia won by 7 wickets
+613 	24/01/2014 	2013-2014 Australia v. England 	WACA Ground 	England won by 57 runs
+614 	26/01/2014 	2013-2014 Australia v. England 	Adelaide Oval 	Australia won by 5 runs
+615 	28/02/2014 	2013-2014 West Indies v. England 	Sir Vivian Richards Stadium 	West Indies won by 15 runs
+616 	02/03/2014 	2013-2014 West Indies v. England 	Sir Vivian Richards Stadium 	England won by 3 wickets
+617 	05/03/2014 	2013-2014 West Indies v. England 	Sir Vivian Richards Stadium 	England won by 25 runs
+618 	09/05/2014 	2014 Scotland v. England 	Mannofield Park 	England won by 39 runs
+619 	22/05/2014 	2014 England v. Sri Lanka 	Kennington Oval 	England won by 81 runs
+620 	25/05/2014 	2014 England v. Sri Lanka 	Riverside Ground 	Sri Lanka won by 157 runs
+621 	28/05/2014 	2014 England v. Sri Lanka 	Old Trafford 	England won by 10 wickets
+622 	31/05/2014 	2014 England v. Sri Lanka 	Lord's 	Sri Lanka won by 7 runs
+623 	03/06/2014 	2014 England v. Sri Lanka 	Edgbaston 	Sri Lanka won by 6 wickets
+624 	27/08/2014 	2014 England v. India 	Sophia Gardens 	India won by 133 runs
+625 	30/08/2014 	2014 England v. India 	Trent Bridge 	India won by 6 wickets
+626 	02/09/2014 	2014 England v. India 	Edgbaston 	India won by 9 wickets
+627 	05/09/2014 	2014 England v. India 	Headingley 	England won by 41 runs
+628 	26/11/2014 	2014-2015 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 25 runs
+629 	29/11/2014 	2014-2015 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 8 wickets
+630 	03/12/2014 	2014-2015 Sri Lanka v. England 	Mahinda Rajapaksha International Cricket Stadium 	England won by 5 wickets
+631 	07/12/2014 	2014-2015 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 6 wickets
+632 	10/12/2014 	2014-2015 Sri Lanka v. England 	Pallekele International Cricket Stadium 	England won by 5 wickets
+633 	13/12/2014 	2014-2015 Sri Lanka v. England 	Pallekele International Cricket Stadium 	Sri Lanka won by 90 runs
+634 	16/12/2014 	2014-2015 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 87 runs
+635 	16/01/2015 	2014-2015 Carlton Mid International Tri Series (v. Australia) 	Sydney Cricket Ground 	Australia won by 3 wickets
+636 	20/01/2015 	2014-2015 Carlton Mid International Tri Series (v. India) 	Brisbane Cricket Ground 	England won by 9 wickets
+637 	23/01/2015 	2014-2015 Carlton Mid International Tri Series (v. Australia) 	Bellerive Oval 	Australia won by 3 wickets
+638 	30/01/2015 	2014-2015 Carlton Mid International Tri Series (v. India) 	WACA Ground 	England won by 3 wickets
+639 	01/02/2015 	2014-2015 Carlton Mid International Tri Series (v. Australia) 	WACA Ground 	Australia won by 112 runs
+640 	14/02/2015 	2014-2015 ICC World Cup (v. Australia) 	Melbourne Cricket Ground 	Australia won by 111 runs
+641 	20/02/2015 	2014-2015 ICC World Cup (v. New Zealand) 	Westpac Stadium 	New Zealand won by 8 wickets
+642 	23/02/2015 	2014-2015 ICC World Cup (v. Scotland) 	Hagley Oval 	England won by 119 runs
+643 	01/03/2015 	2014-2015 ICC World Cup (v. Sri Lanka) 	Westpac Stadium 	Sri Lanka won by 9 wickets
+644 	09/03/2015 	2014-2015 ICC World Cup (v. Bangladesh) 	Adelaide Oval 	Bangladesh won by 15 runs
+645 	13/03/2015 	2014-2015 ICC World Cup (v. Afghanistan) 	Sydney Cricket Ground 	England won by 9 wickets
+646 	08/05/2015 	2014-2015 Ireland v. England 	The Village 	No Result
+647 	09/06/2015 	2015 England v. New Zealand 	Edgbaston 	England won by 210 runs
+648 	12/06/2015 	2015 England v. New Zealand 	Kennington Oval 	New Zealand won by 13 runs
+649 	14/06/2015 	2015 England v. New Zealand 	The Rose Bowl 	New Zealand won by 3 wickets
+650 	17/06/2015 	2015 England v. New Zealand 	Trent Bridge 	England won by 7 wickets
+651 	20/06/2015 	2015 England v. New Zealand 	Riverside Ground 	England won by 3 wickets
+652 	03/09/2015 	2015 England v. Australia 	The Rose Bowl 	Australia won by 59 runs
+653 	05/09/2015 	2015 England v. Australia 	Lord's 	Australia won by 64 runs
+654 	08/09/2015 	2015 England v. Australia 	Old Trafford 	England won by 93 runs
+655 	11/09/2015 	2015 England v. Australia 	Headingley 	England won by 3 wickets
+656 	12/09/2015 	2015 England v. Australia 	Old Trafford 	Australia won by 8 wickets
+657 	11/11/2015 	2015-2016 Pakistan v. England 	Sheikh Zayed Stadium 	Pakistan won by 6 wickets
+658 	13/11/2015 	2015-2016 Pakistan v. England 	Sheikh Zayed Stadium 	England won by 95 runs
+659 	17/11/2015 	2015-2016 Pakistan v. England 	Sharjah Cricket Stadium 	England won by 6 wickets
+660 	20/11/2015 	2015-2016 Pakistan v. England 	Dubai International Cricket Stadium 	England won by 84 runs
+661 	03/02/2016 	2015-2016 South Africa v. England 	Mangaung Oval 	England won by 39 runs
+662 	06/02/2016 	2015-2016 South Africa v. England 	St George's Park 	England won by 5 wickets
+663 	09/02/2016 	2015-2016 South Africa v. England 	SuperSport Park 	South Africa won by 7 wickets
+664 	12/02/2016 	2015-2016 South Africa v. England 	Wanderers Stadium 	South Africa won by 1 wicket
+665 	14/02/2016 	2015-2016 South Africa v. England 	Newlands 	South Africa won by 5 wickets
+666 	21/06/2016 	2016 England v. Sri Lanka 	Trent Bridge 	Match Tied
+667 	24/06/2016 	2016 England v. Sri Lanka 	Edgbaston 	England won by 10 wickets
+668 	26/06/2016 	2016 England v. Sri Lanka 	County Ground (Bristol) 	No Result
+669 	29/06/2016 	2016 England v. Sri Lanka 	Kennington Oval 	England won by 6 wickets
+670 	02/07/2016 	2016 England v. Sri Lanka 	Sophia Gardens 	England won by 122 runs
+671 	24/08/2016 	2016 England v. Pakistan 	The Rose Bowl 	England won by 44 runs
+672 	27/08/2016 	2016 England v. Pakistan 	Lord's 	England won by 4 wickets
+673 	30/08/2016 	2016 England v. Pakistan 	Trent Bridge 	England won by 169 runs
+674 	01/09/2016 	2016 England v. Pakistan 	Headingley 	England won by 4 wickets
+675 	04/09/2016 	2016 England v. Pakistan 	Sophia Gardens 	Pakistan won by 4 wickets
+676 	07/10/2016 	2016-2017 Bangladesh v. England 	Shere Bangla National Stadium 	England won by 21 runs
+677 	09/10/2016 	2016-2017 Bangladesh v. England 	Shere Bangla National Stadium 	Bangladesh won by 34 runs
+678 	12/10/2016 	2016-2017 Bangladesh v. England 	Zahur Ahmed Chowdhury Stadium 	England won by 4 wickets
+679 	15/01/2017 	2016-2017 India v. England 	Maharashtra Cricket Association Stadium 	India won by 3 wickets
+680 	19/01/2017 	2016-2017 India v. England 	Barabati Stadium 	India won by 15 runs
+681 	22/01/2017 	2016-2017 India v. England 	Eden Gardens 	England won by 5 runs
+682 	03/03/2017 	2016-2017 West Indies v. England 	Sir Vivian Richards Stadium 	England won by 45 runs
+683 	05/03/2017 	2016-2017 West Indies v. England 	Sir Vivian Richards Stadium 	England won by 4 wickets
+684 	09/03/2017 	2016-2017 West Indies v. England 	Kensington Oval 	England won by 186 runs
+685 	05/05/2017 	2017 England v. Ireland 	County Ground (Bristol) 	England won by 7 wickets
+686 	07/05/2017 	2017 England v. Ireland 	Lord's 	England won by 85 runs
+687 	24/05/2017 	2017 England v. South Africa 	Headingley 	England won by 72 runs
+688 	27/05/2017 	2017 England v. South Africa 	The Rose Bowl 	England won by 2 runs
+689 	29/05/2017 	2017 England v. South Africa 	Lord's 	South Africa won by 7 wickets
+690 	01/06/2017 	2017 ICC Champions Trophy (v. Bangladesh) 	Kennington Oval 	England won by 8 wickets
+691 	06/06/2017 	2017 ICC Champions Trophy (v. New Zealand) 	Sophia Gardens 	England won by 87 runs
+692 	10/06/2017 	2017 ICC Champions Trophy (v. Australia) 	Edgbaston 	England won by 40 runs
+693 	14/06/2017 	2017 ICC Champions Trophy (v. Pakistan) 	Sophia Gardens 	Pakistan won by 8 wickets
+694 	19/09/2017 	2017 England v. West Indies 	Old Trafford 	England won by 7 wickets
+695 	21/09/2017 	2017 England v. West Indies 	Trent Bridge 	No Result
+696 	24/09/2017 	2017 England v. West Indies 	County Ground (Bristol) 	England won by 124 runs
+697 	27/09/2017 	2017 England v. West Indies 	Kennington Oval 	England won by 6 runs
+698 	29/09/2017 	2017 England v. West Indies 	The Rose Bowl 	England won by 9 wickets
+699 	14/01/2018 	2017-2018 Australia v. England 	Melbourne Cricket Ground 	England won by 5 wickets
+700 	18/01/2018 	2017-2018 Australia v. England 	Brisbane Cricket Ground 	England won by 4 wickets
+701 	21/01/2018 	2017-2018 Australia v. England 	Sydney Cricket Ground 	England won by 16 runs
+702 	26/01/2018 	2017-2018 Australia v. England 	Adelaide Oval 	Australia won by 3 wickets
+703 	28/01/2018 	2017-2018 Australia v. England 	Perth Stadium 	England won by 12 runs
+704 	25/02/2018 	2017-2018 New Zealand v. England 	Seddon Park 	New Zealand won by 3 wickets
+705 	28/02/2018 	2017-2018 New Zealand v. England 	Bay Oval 	England won by 6 wickets
+706 	03/03/2018 	2017-2018 New Zealand v. England 	Westpac Stadium 	England won by 4 runs
+707 	06/03/2018 	2017-2018 New Zealand v. England 	University Oval 	New Zealand won by 5 wickets
+708 	10/03/2018 	2017-2018 New Zealand v. England 	Hagley Oval 	England won by 7 wickets
+709 	10/06/2018 	2018 Scotland v. England 	Grange Cricket Club 	Scotland won by 6 runs
+710 	13/06/2018 	2018 England v. Australia 	Kennington Oval 	England won by 3 wickets
+711 	16/06/2018 	2018 England v. Australia 	Sophia Gardens 	England won by 38 runs
+712 	19/06/2018 	2018 England v. Australia 	Trent Bridge 	England won by 242 runs
+713 	21/06/2018 	2018 England v. Australia 	Riverside Ground 	England won by 6 wickets
+714 	24/06/2018 	2018 England v. Australia 	Old Trafford 	England won by 1 wicket
+715 	12/07/2018 	2018 England v. India 	Trent Bridge 	India won by 8 wickets
+716 	14/07/2018 	2018 England v. India 	Lord's 	England won by 86 runs
+717 	17/07/2018 	2018 England v. India 	Headingley 	England won by 8 wickets
+718 	10/10/2018 	2018-2019 Sri Lanka v. England 	Rangiri Dambulla International Stadium 	No Result
+719 	13/10/2018 	2018-2019 Sri Lanka v. England 	Rangiri Dambulla International Stadium 	England won by 31 runs
+720 	17/10/2018 	2018-2019 Sri Lanka v. England 	Pallekele International Cricket Stadium 	England won by 7 wickets
+721 	20/10/2018 	2018-2019 Sri Lanka v. England 	Pallekele International Cricket Stadium 	England won by 18 runs
+722 	23/10/2018 	2018-2019 Sri Lanka v. England 	R Premadasa Stadium 	Sri Lanka won by 219 runs
+723 	20/02/2019 	2018-2019 West Indies v. England 	Kensington Oval 	England won by 6 wickets
+724 	22/02/2019 	2018-2019 West Indies v. England 	Kensington Oval 	West Indies won by 26 runs
+725 	25/02/2019 	2018-2019 West Indies v. England 	National Cricket Stadium (Grenada) 	No Result
+726 	27/02/2019 	2018-2019 West Indies v. England 	National Cricket Stadium (Grenada) 	England won by 29 runs
+727 	01/03/2019 	2018-2019 West Indies v. England 	Darren Sammy National Cricket Stadium 	West Indies won by 7 wickets
+728 	03/05/2019 	2018-2019 Ireland v. England 	The Village 	England won by 4 wickets
+729 	08/05/2019 	2019 England v. Pakistan 	Kennington Oval 	No Result
+730 	11/05/2019 	2019 England v. Pakistan 	The Rose Bowl 	England won by 12 runs
+731 	14/05/2019 	2019 England v. Pakistan 	County Ground (Bristol) 	England won by 6 wickets
+732 	17/05/2019 	2019 England v. Pakistan 	Trent Bridge 	England won by 3 wickets
+733 	19/05/2019 	2019 England v. Pakistan 	Headingley 	England won by 54 runs
+734 	30/05/2019 	2019 ICC World Cup (v. South Africa) 	Kennington Oval 	England won by 104 runs
+735 	03/06/2019 	2019 ICC World Cup (v. Pakistan) 	Trent Bridge 	Pakistan won by 14 runs
+736 	08/06/2019 	2019 ICC World Cup (v. Bangladesh) 	Sophia Gardens 	England won by 106 runs
+737 	14/06/2019 	2019 ICC World Cup (v. West Indies) 	The Rose Bowl 	England won by 8 wickets
+738 	18/06/2019 	2019 ICC World Cup (v. Afghanistan) 	Old Trafford 	England won by 150 runs
+739 	21/06/2019 	2019 ICC World Cup (v. Sri Lanka) 	Headingley 	Sri Lanka won by 20 runs
+740 	25/06/2019 	2019 ICC World Cup (v. Australia) 	Lord's 	Australia won by 64 runs
+741 	30/06/2019 	2019 ICC World Cup (v. India) 	Edgbaston 	England won by 31 runs
+742 	03/07/2019 	2019 ICC World Cup (v. New Zealand) 	Riverside Ground 	England won by 119 runs
+743 	11/07/2019 	2019 ICC World Cup (v. Australia) 	Edgbaston 	England won by 8 wickets
+744 	14/07/2019 	2019 ICC World Cup (v. New Zealand) 	Lord's 	England won in super over after scores were tied
+745 	04/02/2020 	2019-2020 South Africa v. England 	Newlands 	South Africa won by 7 wickets
+746 	07/02/2020 	2019-2020 South Africa v. England 	Kingsmead 	No Result
+747 	09/02/2020 	2019-2020 South Africa v. England 	Wanderers Stadium 	England won by 2 wickets
